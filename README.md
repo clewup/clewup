@@ -1,6 +1,10 @@
+Hey👋, I'm clew, a full stack dev from the UK.
 
-hey👋, i'm clew, a full stack dev from the uk.
+I build beautiful, immersive solutions with seamless functionality.
 
-reach out at: hello@clew.codes ✉️
+With a focus on creating high-quality products, achieved through careful planning and not taking shortcuts, I am confident that I can help you.
 
-also, check out my [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/clew/full-stack) 💫
+Reach out at hello@clew.codes.
+
+
+
