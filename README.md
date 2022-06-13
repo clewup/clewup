@@ -1,4 +1,4 @@
-Hey👋, I'm clew, a full stack dev from the UK.
+Hey👋, I'm clew, a full stack developer from the UK.
 
 I build beautiful, immersive solutions with seamless functionality.
 
