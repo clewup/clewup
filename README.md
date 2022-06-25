@@ -14,14 +14,15 @@ Reach out at <a hred= "mailto:hello@clew.codes">hello@clew.codes</a>
 
 
 ### GitHub Stats</p>
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=clew-codes&theme=radical&show_icons=true&include_all_commits=true&border_color=ff4055&bg_color=0D1117&title_color=ff4055&text_color=fff&hide_title=true" />
+<img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=clew-codes&theme=radical&show_icons=true&include_all_commits=true&border_color=ff4055&bg_color=0D1117&title_color=ff4055&text_color=fff&hide_title=true" />
 
 ### GitHub Languages
 
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clew-codes&theme=radical&langs_count=8&layout=compact&border_color=ff4055&bg_color=0D1117&title_color=ff4055&text_color=fff" />
+<img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clew-codes&theme=radical&langs_count=8&layout=compact&border_color=ff4055&bg_color=0D1117&title_color=ff4055&text_color=fff" />
 
 
 ### Listening To
+
 [![Spotify](https://spotify-now-playing-mocha-theta.vercel.app/api/spotify?background_color=0D1117&border_color=ff4055)](https://open.spotify.com/user/pqt4rwcoaths6i7sju3x8zjq1)
 
 </div>
