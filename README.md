@@ -1,4 +1,5 @@
-Full Stack Developer from the UK.
+I'm Lewis, a Full Stack Developer from the UK <img style="width: 12px" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" />.
+
 <br/>
 Reach out at <a hred= "mailto:hello@clew.codes">hello@clew.codes</a>
 
