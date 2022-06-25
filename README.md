@@ -20,6 +20,7 @@ Reach out at <a hred= "mailto:hello@clew.codes">hello@clew.codes</a>
 <img style="width: 50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="C#" />
   <img style="width: 50px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" title="HTML"/>
   <img style="width: 50px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS"/>
+  <img style="width: 50px" src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" title="Photoshop"/>
 </div>
 
 <br/>
