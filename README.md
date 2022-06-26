@@ -1,7 +1,7 @@
 <div align="center">
 
   
-  <img style="width: 60%" src="https://i.ibb.co/jHr1zTj/github-header-alt.jpg"/>
+  <img style="width: 60%" src="https://i.ibb.co/4wy0WxL/github-header.png"/>
 <br/>
 <br/>
   
