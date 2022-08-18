@@ -22,10 +22,11 @@ Reach out at <a hred= "mailto:hello@clew.codes">hello@clew.codes</a>
 <br/>
 <div style="display: flex">
 <img style="width: 50px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="C#" />
+<img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" title=".NET" />
   <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JS"/>
   <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React"/>
-  <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" title="Vue"/>
   <img style="width: 50px" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" title="NextJS"/>
+  <img style="width: 50px" src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" title="MongoDB"/>
   
   
 </div>
