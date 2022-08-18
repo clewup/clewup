@@ -26,7 +26,7 @@ Reach out at <a hred= "mailto:hello@clew.codes">hello@clew.codes</a>
   <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JS"/>
   <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React"/>
   <img style="width: 50px" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" title="NextJS"/>
-  <img style="width: 50px" src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" title="MongoDB"/>
+  <img style="width: 50px" src="https://img.favpng.com/16/12/14/mongodb-database-clip-art-computer-icons-nosql-png-favpng-DBdwbhycTnwNvHA06hqJMBbmE.jpg" title="MongoDB"/>
   
   
 </div>
