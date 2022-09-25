@@ -10,10 +10,6 @@
 <br/>
 <br/>
   
-I'm Lewis, a Full Stack Developer from the UK <img style="width: 12px" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" />.
-
-Reach out at <a hred= "mailto:hello@clew.codes">hello@clew.codes</a>
-
 [![Website](https://img.shields.io/badge/Website-ff4055)](https://clew.codes)
 [![Stack](https://img.shields.io/badge/Stack-FFA500)](https://stackshare.io/clew/full-stack)
 [![Twitter](https://img.shields.io/badge/Twitter-00acee)](https://twitter.com/clewcodes)
