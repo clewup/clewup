@@ -15,11 +15,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-00acee)](https://twitter.com/clewcodes)
 [![Discord](https://img.shields.io/badge/Discord-7289da)](https://discordapp.com/users/clew#6069)
 
-<br />
-
-### GitHub Stats</p>
-<img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=clew-codes&theme=radical&show_icons=true&border_color=ff4055&bg_color=0D1117&title_color=ff4055&text_color=fff&hide_title=true&count_private=true" />
-
-### GitHub Languages
-
+###
 <img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clew-codes&theme=radical&langs_count=8&layout=compact&border_color=ff4055&bg_color=0D1117&title_color=ff4055&text_color=fff" />
