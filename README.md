@@ -10,13 +10,13 @@
 </div>
 <br />
 
-[![Website](https://img.shields.io/badge/Website-ff4055)](https://clew.codes)
+[![Website](https://img.shields.io/badge/Website-ff4055)](https://clewup.co.uk)
 [![Stack](https://img.shields.io/badge/Stack-FFA500)](https://stackshare.io/clew/full-stack)
-[![Twitter](https://img.shields.io/badge/Twitter-00acee)](https://twitter.com/clewcodes)
+[![Twitter](https://img.shields.io/badge/Twitter-00acee)](https://twitter.com/clewup)
 [![Discord](https://img.shields.io/badge/Discord-7289da)](https://discordapp.com/users/clew#6069)
 
 <br />
 
-<img style="height: auto%; width: 57%;" class="img" src="https://github-readme-stats.vercel.app/api?username=clew-codes&theme=radical&show_icons=true&border_color=FFFFFF&bg_color=0D1117&title_color=42ba96&text_color=FFFFFF&hide_title=true&count_private=true" />
+<img style="height: auto%; width: 57%;" class="img" src="https://github-readme-stats.vercel.app/api?username=clewup&theme=radical&show_icons=true&border_color=FFFFFF&bg_color=0D1117&title_color=42ba96&text_color=FFFFFF&hide_title=true&count_private=true" />
 
-<img style="height: auto%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clew-codes&theme=radical&langs_count=8&layout=compact&border_color=FFFFFF&bg_color=0D1117&title_color=7c69ef&text_color=FFFFFF" />
+<img style="height: auto%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clewup&theme=radical&langs_count=8&layout=compact&border_color=FFFFFF&bg_color=0D1117&title_color=7c69ef&text_color=FFFFFF" />
