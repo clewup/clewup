@@ -1,12 +1,10 @@
 <div align="center">
   <br />
   <div style="display: flex">
-  <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript"/>
   <img style="width: 50px" src="https://seekicon.com/free-icon-download/typescript_2.svg" title="TypeScript" />
   <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" title=".NET" />
   <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React"/>
-  <img style="width: 50px" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" title="NextJS"/>
-  <img style="width: 50px" src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB"/>
+  <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgresSQL"/>
 </div>
 <br />
 
