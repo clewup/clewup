@@ -9,7 +9,7 @@
 <br />
 
 [![Website](https://img.shields.io/badge/Website-ff4055)](https://clewup.co.uk)
-[![Stack](https://img.shields.io/badge/Stack-FFA500)](https://stackshare.io/clew/full-stack)
+[![Stack](https://img.shields.io/badge/Stack-FFA500)](https://stackshare.io/clewup/full-stack)
 [![Twitter](https://img.shields.io/badge/Twitter-00acee)](https://twitter.com/clewup)
 [![Discord](https://img.shields.io/badge/Discord-7289da)](https://discordapp.com/users/clew#6069)
 
