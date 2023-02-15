@@ -5,6 +5,7 @@
   <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" title=".NET" />
   <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React"/>
   <img style="width: 50px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" title="PostgresSQL"/>
+    <img style="width: 50px" src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-icon-logo-vector.svg" title="NodeJS" />
 </div>
 <br />
 
