@@ -18,4 +18,4 @@
 
 <img style="height: auto%; width: 57%;" class="img" src="https://github-readme-stats.vercel.app/api?username=clewup&theme=radical&show_icons=true&border_color=FFFFFF&bg_color=0D1117&title_color=42ba96&text_color=FFFFFF&hide_title=true&count_private=true" />
 
-<img style="height: auto%; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clewup&theme=radical&langs_count=8&layout=compact&border_color=FFFFFF&bg_color=0D1117&title_color=7c69ef&text_color=FFFFFF" />
+<img style="height: auto%; width: 32%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clewup&theme=radical&langs_count=8&layout=compact&border_color=FFFFFF&bg_color=0D1117&title_color=7c69ef&text_color=FFFFFF" />
