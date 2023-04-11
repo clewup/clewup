@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/x8CdFh0/github-design-cropped.png" />
+  <img src="https://i.ibb.co/Fs35BrF/github-design-cropped-new-libraries.png" />
   
   
   <br/>
