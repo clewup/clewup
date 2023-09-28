@@ -1,8 +1,8 @@
 ## About
 🛠 I'm a full-stack developer @CoxAutomotive </br>
 🚀 I'm looking to collaborate </br>
-📧 You can reach me at <a href="mailto:hello@clewup.co.uk">hello@clewup.co.uk</a></br>
-💼 You can view my work at <a href="https://clewup.co.uk">clewup.co.uk</a>
+📧 You can reach me at <a href="mailto:hello@lewisjohnson.uk">hello@lewisjohnson.uk</a></br>
+💼 You can view my work at <a href="https://www.lewisjohnson.uk">www.lewisjohnson.uk</a>
 
 
 ## Tech Stack
