@@ -7,5 +7,5 @@ Skilled in leveraging Azure technologies, including Azure Functions, Service Bus
 Proven track record of delivering complex projects on time and within scope, consistently enhancing performance, scalability, and user experience. Passionate about crafting innovative solutions that solve real-world problems and add measurable value to businesses.
 
 ## Let's talk 🌎:
-- Take a look at my [portfolio](https://www.lewisjohnson.uk/) 🎨
+- Take a look at my [website](https://www.lewisjohnson.uk/) 🎨
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/lewis-johnson-66834b222/) 💼
