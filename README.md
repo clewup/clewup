@@ -1,4 +1,4 @@
-![alt text](https://i.ibb.co/vJV6qwJ/clewup.png)
+![alt text](https://i.ibb.co/QfRyx2c/Untitled-design.png)
 
 Seasoned full-stack developer with extensive experience in designing, building, and scaling high-performance web applications. Proficient in .NET, React.js, Angular, Node.js and Next.js, with expertise in C#, JavaScript, and TypeScript.
 
