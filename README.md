@@ -1,1 +1,1 @@
-[![Alt text](https://i.ibb.co/Dk3ZGm2/Screenshot-2025-01-25-at-02-29-22.png)](https://lewisjohnson.dev)
+[![Alt text](https://i.ibb.co/LDWxp4dt/fbc7d11bd70e0b8d2690580558578161.png)](https://lewisjohnson.dev)
